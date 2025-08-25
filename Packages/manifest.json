@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "app.rive.rive-unity": "file:C:/Users/John/Project/Unity3D/rive-unity-0.3.7/rive-unity-0.3.7/package",
+    "com.meta.xr.sdk.all": "77.0.0",
     "com.meta.xr.sdk.interaction.ovr": "77.0.0",
     "com.meta.xr.simulator": "77.0.0",
     "com.unity.collab-proxy": "2.8.2",
